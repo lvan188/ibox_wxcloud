@@ -1,4 +1,3 @@
-/*Obfuscated by JShaman.com*/
 var uint8Array = Uint8Array;
 var uint32Array = Uint32Array;
 var pow = Math['pow'];
